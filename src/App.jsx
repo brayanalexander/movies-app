@@ -7,7 +7,7 @@ export function App(){
     return <BrowserRouter>
     <div>
         <header>
-          <Link to="/"><h1 className={styles.title}>Movies Brayan</h1></Link>
+          <Link to="/"><h1 className={styles.title}>&#127871; Movies Brayan &#127871;</h1></Link>
           
         </header>
         <main>
